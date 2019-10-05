@@ -1,0 +1,5 @@
+.page-footer{background:#fff}
+.page-footer-inner{color: grey !important}
+
+.page-header.navbar .top-menu .navbar-nav > li.dropdown > .dropdown-toggle{padding-top: 26px !important; padding-bottom: 21px !important}
+.page-header.navbar .menu-toggler.sidebar-toggler{margin-top: 24px !important; font-weight:bold; }

@@ -1,0 +1,5 @@
+[01-Mar-2018 11:16:25 UTC] PHP Parse error:  syntax error, unexpected 'pu' (T_STRING), expecting function (T_FUNCTION) in /home/mediterraneanbal/siak.io/allnew_siakad/application/models/Content_m.php on line 48
+[02-Mar-2018 12:10:47 Asia/Makassar] PHP Fatal error:  Call to a member function get_value() on null in /home/mediterraneanbal/siak.io/allnew_siakad/application/views/administrator/kelas/print_absensi.php on line 47
+[02-Mar-2018 12:15:21 Asia/Makassar] PHP Fatal error:  Call to a member function get_value() on null in /home/mediterraneanbal/siak.io/allnew_siakad/application/views/administrator/kelas/print_absensi.php on line 47
+[10-Apr-2018 17:38:50 Asia/Makassar] PHP Fatal error:  Call to a member function get_value() on null in /home/mediterraneanbal/siak.io/allnew_siakad/application/views/administrator/kelas/print_absensi.php on line 47
+[11-Apr-2018 00:17:06 Asia/Makassar] PHP Fatal error:  Call to a member function get_value() on null in /home/mediterraneanbal/siak.io/allnew_siakad/application/views/administrator/kelas/print_absensi.php on line 47
